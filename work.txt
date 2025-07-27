@@ -1,2 +1,3 @@
 DAY 0 work
 Day 1: added feature A
+Day 2: improved feature A
